@@ -1,4 +1,4 @@
-# Sito snowboard
+# Portfolio personale
 
 Questo progetto tratta del mio porfolio personale
 
