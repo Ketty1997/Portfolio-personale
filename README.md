@@ -7,7 +7,7 @@ Questo progetto tratta del mio porfolio personale
 Questo progetto è realizzato attraverso l'utilizzo di diverse tecnologie quali html css e javascript
 
 
-![Pagina iniziale](immagini/preview/presentazione.png)
+![Pagina iniziale](immagini/preview/paginaIniziale.png)
 ![Caricamenti](immagini/preview/caricamento.png)
 ![Home presentazione](immagini/preview/home.png)
 ![Home](immagini/preview/home1.png)
